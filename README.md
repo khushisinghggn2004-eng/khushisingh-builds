@@ -6,7 +6,7 @@ Hi there, I'm Khushi Singh 👋
 - 💬 Ask me about - Excel, Power BI, SQL, python, tableau , ML
 
 - 🛠️ Tech Stack & Tools 
--Data Visualization: Power BI, Excel, Python(numpy, pandas, seaborn)
+-*Data Visualization:* Power BI, Excel, Python(numpy, pandas, seaborn)
 -Database & Tools:* SQL, Git & GitHub
 
 ### 🔗 Connect with Me
