@@ -7,7 +7,7 @@ Hi there, I'm Khushi Singh 👋
 
 - 🛠️ Tech Stack & Tools 
 - *Data Visualization:* Power BI, Excel, Python(numpy, pandas, seaborn)
-- Database & Tools:* SQL, Git & GitHub
+- Database & Tools:* SQL,   GitHub
 
 ### 🔗 Connect with Me
 - [LinkedIn] - https://www.linkedin.com/in/khushi-singh-4295b9426/
